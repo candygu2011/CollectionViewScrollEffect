@@ -1,0 +1,3 @@
+# CollectionViewScrollEffect
+模仿开眼app头部滑动效果
+感谢CocoaChina提供思路
